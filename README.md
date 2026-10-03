@@ -86,6 +86,18 @@ The project relies on the following libraries, which must be installed via the *
 
 ---
 
+## 🌍 Community Outreach, Children's Education & Science Promotion
+
+**DeskBuddy** was more than just a laboratory experiment; it was actively used as an interactive demonstration tool for academic outreach and STEM (Science, Technology, Engineering, and Mathematics) promotion on behalf of the university, with a special focus on young audiences.
+
+### 🏛️ Featured Events & Educational Impact:
+*   **Night of Museums (Noaptea Muzeelor) & Scientific Exhibits:** The robot was showcased at the university's interactive stands, serving as an engaging installation for families and the general public. Its charismatic facial expressions and immediate sensor-driven feedback successfully bridged the gap between complex embedded systems and non-technical visitors.
+*   **Interactive Workshops for Children:** DeskBuddy was used to introduce kids to the world of electronics and computer science. Thanks to its friendly, cell-shaded appearance and "moustache," children weren't intimidated by the exposed wires. Instead, they loved interacting with the robot by waving their hands to make it laugh (IR sensor) or covering the light sensor to see it get angry (LDR sensor). This hands-on experience served as a perfect introduction to how sensors work in the real world.
+
+Through these initiatives, the project successfully demonstrated how minimal embedded hardware (**Arduino Nano**) can be utilized to build highly interactive devices capable of sparking genuine curiosity and inspiring the next generation of future engineers and scientists.
+
+---
+
 ## ⚙️ LDR Sensor Calibration
 
 If the robot triggers the *ANGRY* state too easily or requires too much light due to your lab's ambient lighting, adjust the calibration constant at the top of the source code:
