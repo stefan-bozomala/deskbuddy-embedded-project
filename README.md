@@ -64,6 +64,7 @@ The system operates on a hierarchical decision-making structure:
 
 ### Hardware Setup on Breadboard:
 | ![Breadboard Assembly 1](assets/deskbuddy_hardware.png) | ![Breadboard Assembly 2](assets/deskbuddy_hardware2.png) |
+| :---: | :---: |
 
 ---
 
