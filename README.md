@@ -8,7 +8,6 @@
 ---
 
 ## 📝 Project Overview
-![Thumbnail](assets/deskbuddy.png)
 
 **DeskBuddy** is an interactive embedded system powered by the **Arduino Nano** platform, designed to act as an expressive desktop companion. Utilizing an OLED display and a suite of sensors, the robot dynamically changes its facial expressions and triggers audio feedback in response to environmental stimuli (light levels and motion/proximity).
 
