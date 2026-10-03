@@ -63,8 +63,7 @@ The system operates on a hierarchical decision-making structure:
 | **OLED Display SCL**   | `Pin A5` (SCL) | I2C Clock | Serial Clock line for screen synchronization |
 
 ### Hardware Setup on Breadboard:
-![Breadboard Assembly 1](assets/deskbuddy_hardware.png)
-![Breadboard Assembly 2](assets/deskbuddy_hardware2.png)
+![Breadboard Assembly 1](assets/deskbuddy_hardware.png) | ![Breadboard Assembly 2](assets/deskbuddy_hardware2.png)
 
 ---
 
